@@ -1,0 +1,25 @@
+/*All fonts are declared here*/
+@font-face {
+        font-family:"Have_Heart";
+        src: url("fonts/have_heart_one.ttf");
+        }
+
+@font-face {
+        font-family:"Have_Heart2";
+        src: url("fonts/have_heart_two.ttf");
+        }
+
+@font-face {
+        font-family:"bebas";
+        src: url("fonts/BNR.ttf");
+        }
+
+@font-face {
+        font-family:"aldo";
+        src: url("fonts/ATA.ttf");
+}
+
+@font-face {
+        font-family:"AT1";
+        src: url("fonts/AT1.ttf");
+}
