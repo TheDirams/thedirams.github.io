@@ -1,6 +1,6 @@
 #!/bin/bash
 
-file="videos.html"
+file="setup.html"
 
 sed -i 's@index.html@https://thedirams.github.io/@g' $file
 sed -i 's@contact.html@https://thedirams.github.io/contact@g' $file
